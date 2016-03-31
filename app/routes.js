@@ -1,5 +1,6 @@
 // Import Models =========================================================================
-var Todo = require('./models/todo');
+var  models = require('./models/todo');
+var Todo = models.ToDo;
 
 // Expose routes =========================================================================
 module.exports = function(app) {

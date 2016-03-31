@@ -8,7 +8,7 @@ var Schema = mongoose.Schema;
 
 var toDoSchema = new Schema({
     text: String,
-    done: boolean
+    done: Boolean
 });
 
 // Create Models =========================================================================

@@ -1,0 +1,20 @@
+{
+  "name": "YummyToDo",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "https://github.com/DONGChuan/YummyToDo",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.2",
+    "bootstrap": "^3.3.6",
+    "angular": "angularjs#^1.5.3"
+  }
+}
